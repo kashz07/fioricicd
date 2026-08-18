@@ -1,0 +1,9 @@
+<mvc:View controllerName="zfioritestctms.controller.MainPage"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content>
+            <Title text="This is Fiori app for CTMS Test with CI/CD"></Title>
+        </content>
+    </Page>
+</mvc:View>
