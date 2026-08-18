@@ -4,7 +4,8 @@
     <Page id="page" title="{i18n>title}">
         <content>
             <Title text="This is Fiori app for CTMS Test with CI/CD"></Title>
-            <Title text="Continuous Integration and Delivery"></Title>
+            <Title text="/n Continuous Integration and Delivery"></Title>
+            <Title text="/n CI/CD from feature branch"></Title>
         </content>
     </Page>
 </mvc:View>
